@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2d89d92-6e1f-4b02-96d0-c270e188ec46" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="seminar7" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2YA8F90qtNQMLwjkDfHfnYWY1CZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.lab11 [:Criptare.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.lab11 [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.lab11 [:StartApplication.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vanes/Documents/facultate/MAP/LABORATOR/lab11&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vanes\Documents\facultate\MAP\LABORATOR\lab8-9\src\main\java\ro\ubbcluj\map\seminar7\repository" />
+      <recent name="C:\Users\vanes\Documents\facultate\MAP\LABORATOR\lab8\src\main\java\ro\ubbcluj\map\seminar7\observers" />
+      <recent name="C:\Users\vanes\Documents\facultate\MAP\LABORATOR\lab8\src\main\resources\ro\ubbcluj\map\seminar7\GUI" />
+      <recent name="C:\Users\vanes\Documents\facultate\MAP\LABORATOR\lab7\src\main\resources\ro\ubbcluj\map\seminar7\GUI" />
+      <recent name="C:\Users\vanes\Documents\facultate\MAP\SEMINAR\seminar7\src\main\java\ro\ubbcluj\map\seminar7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vanes\Documents\facultate\MAP\LABORATOR\lab7\src\main\resources\ro\ubbcluj\map\seminar7\GUI" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ro.ubbcluj.map.seminar7.GUI" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ro.ubbcluj.map.seminar7.observers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ubbcluj.map.seminar7.Main" />
+      <module name="seminar7.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ubbcluj.map.seminar7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2d89d92-6e1f-4b02-96d0-c270e188ec46" name="Changes" comment="" />
+      <created>1699956919324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699956919324</updated>
+      <workItem from="1699956920405" duration="4480000" />
+      <workItem from="1699984969739" duration="3097000" />
+      <workItem from="1700037120047" duration="4402000" />
+      <workItem from="1700160203858" duration="16354000" />
+      <workItem from="1700220957829" duration="8782000" />
+      <workItem from="1700561302304" duration="358000" />
+      <workItem from="1700561908056" duration="4245000" />
+      <workItem from="1700568813073" duration="5585000" />
+      <workItem from="1700587847245" duration="4401000" />
+      <workItem from="1700763072288" duration="577000" />
+      <workItem from="1700763717798" duration="109000" />
+      <workItem from="1701104266941" duration="7603000" />
+      <workItem from="1701112169383" duration="8553000" />
+      <workItem from="1701125713470" duration="4426000" />
+      <workItem from="1701159507809" duration="1885000" />
+      <workItem from="1701165555256" duration="3822000" />
+      <workItem from="1701173293874" duration="5741000" />
+      <workItem from="1701246577983" duration="4808000" />
+      <workItem from="1701761477795" duration="1137000" />
+      <workItem from="1701767533581" duration="1802000" />
+      <workItem from="1701770053556" duration="5405000" />
+      <workItem from="1701778522828" duration="5500000" />
+      <workItem from="1701788562360" duration="12550000" />
+      <workItem from="1701806823298" duration="781000" />
+      <workItem from="1701852327128" duration="3909000" />
+      <workItem from="1702369177570" duration="146000" />
+      <workItem from="1702375503769" duration="434000" />
+      <workItem from="1702375967188" duration="670000" />
+      <workItem from="1702383696159" duration="4011000" />
+      <workItem from="1702400704823" duration="10417000" />
+      <workItem from="1702462682020" duration="522000" />
+      <workItem from="1702920554290" duration="1039000" />
+      <workItem from="1704454616215" duration="13536000" />
+      <workItem from="1704540602238" duration="312000" />
+      <workItem from="1704816605023" duration="2872000" />
+      <workItem from="1704819593987" duration="1728000" />
+      <workItem from="1704879170815" duration="1746000" />
+      <workItem from="1705750895169" duration="3517000" />
+      <workItem from="1705864552771" duration="4451000" />
+      <workItem from="1705902894500" duration="676000" />
+      <workItem from="1705906499786" duration="1297000" />
+      <workItem from="1710177085748" duration="818000" />
+      <workItem from="1710179323219" duration="371000" />
+      <workItem from="1710264949778" duration="774000" />
+      <workItem from="1710362628985" duration="179000" />
+      <workItem from="1710362884577" duration="6000" />
+      <workItem from="1710679692379" duration="120000" />
+      <workItem from="1710687862297" duration="60000" />
+      <workItem from="1710699217987" duration="717000" />
+      <workItem from="1711388621336" duration="8620000" />
+      <workItem from="1711413816354" duration="3465000" />
+      <workItem from="1711568931854" duration="1404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/repository/UserDBRepository.java</url>
+          <line>95</line>
+          <properties class="ro.ubbcluj.map.seminar7.repository.UserDBRepository" method="delete">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/UI/Consola.java</url>
+          <line>39</line>
+          <properties class="ro.ubbcluj.map.seminar7.UI.Consola" method="removeUser">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/GUI/UserController.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/repository/InvitationDBRepository.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/service/ServiceInvitation.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/GUI/ProfileController.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/service/ServiceMessage.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/repository/MessageDBRepository.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/GUI/ProfileController.java</url>
+          <line>201</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/GUI/ProfileController.java</url>
+          <line>258</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/service/ServiceMessage.java</url>
+          <line>54</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/GUI/UserController.java</url>
+          <line>157</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/GUI/UserController.java</url>
+          <line>167</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/GUI/LoginSignUpController.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/GUI/LoginSignUpController.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/GUI/LoginSignUpController.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/service/ServiceUtilizator.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ro/ubbcluj/map/seminar7/GUI/LoginSignUpController.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.security.InvalidAlgorithmParameterException" package="java.security" />
+          <option name="timeStamp" value="47" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

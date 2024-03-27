@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ro.ubbcluj.map.seminar7.GUI.LoginSignUpController">
+   <children>
+      <TabPane layoutX="6.0" prefHeight="400.0" prefWidth="600.0" side="LEFT" tabClosingPolicy="UNAVAILABLE" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <tabs>
+          <Tab text="Login">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <VBox alignment="CENTER" layoutX="161.0" layoutY="45.0" prefHeight="400.0" prefWidth="571.2" spacing="40.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <Label text="Login">
+                                 <font>
+                                    <Font size="36.0" />
+                                 </font>
+                              </Label>
+                              <GridPane prefHeight="78.0" prefWidth="571.0">
+                                <columnConstraints>
+                                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                </columnConstraints>
+                                <rowConstraints>
+                                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                </rowConstraints>
+                                 <children>
+                                    <TextField fx:id="textUsernameLogin" promptText="Username">
+                                       <GridPane.margin>
+                                          <Insets left="100.0" right="100.0" />
+                                       </GridPane.margin>
+                                    </TextField>
+                                    <PasswordField fx:id="textPasswordLogin" promptText="Password" GridPane.rowIndex="1">
+                                       <GridPane.margin>
+                                          <Insets left="100.0" right="100.0" />
+                                       </GridPane.margin>
+                                    </PasswordField>
+                                 </children>
+                              </GridPane>
+                              <Button mnemonicParsing="false" onAction="#showUserProfileLogin" text="Log in" />
+                              <Label fx:id="labelLoginError" prefHeight="18.0" prefWidth="183.0" textAlignment="CENTER" textFill="RED" />
+                           </children>
+                        </VBox>
+                     </children>
+                  </AnchorPane>
+            </content>
+          </Tab>
+          <Tab text="Sign Up">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <VBox alignment="CENTER" layoutX="256.0" layoutY="40.0" prefHeight="400.0" prefWidth="571.2" spacing="30.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <Label text="Sign Up">
+                                 <font>
+                                    <Font size="36.0" />
+                                 </font></Label>
+                              <GridPane prefHeight="152.0" prefWidth="571.0">
+                                <columnConstraints>
+                                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                </columnConstraints>
+                                <rowConstraints>
+                                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                </rowConstraints>
+                                 <children>
+                                    <PasswordField fx:id="textPasswordSignUp" promptText="Password" GridPane.rowIndex="3">
+                                       <GridPane.margin>
+                                          <Insets left="100.0" right="100.0" />
+                                       </GridPane.margin>
+                                    </PasswordField>
+                                    <TextField fx:id="textFirstnameSignUp" promptText="Firstname">
+                                       <GridPane.margin>
+                                          <Insets left="100.0" right="100.0" />
+                                       </GridPane.margin>
+                                    </TextField>
+                                    <TextField fx:id="textLastnameSignUp" promptText="Lastname" GridPane.rowIndex="1">
+                                       <GridPane.margin>
+                                          <Insets left="100.0" right="100.0" />
+                                       </GridPane.margin>
+                                    </TextField>
+                                    <TextField fx:id="textUsernameSignUp" promptText="Username" GridPane.rowIndex="2">
+                                       <GridPane.margin>
+                                          <Insets left="100.0" right="100.0" />
+                                       </GridPane.margin>
+                                    </TextField>
+                                 </children>
+                              </GridPane>
+                              <Button mnemonicParsing="false" onAction="#showUserProfileSignUp" text="Sign Up" />
+                              <Label fx:id="labelSignUpError" prefHeight="18.0" prefWidth="201.0" textAlignment="CENTER" textFill="RED" />
+                           </children>
+                           <opaqueInsets>
+                              <Insets />
+                           </opaqueInsets>
+                        </VBox>
+                     </children>
+                  </AnchorPane>
+            </content>
+          </Tab>
+        </tabs>
+      </TabPane>
+   </children>
+</AnchorPane>
